@@ -4,7 +4,7 @@
 
 ---------------
 
-Projeto desenvolvido com **HTML** e **CSS**
+Projeto desenvolvido com __HTML__ e __CSS__
 
 Desafio feito para o Discover / [@Rocketseat](https://github.com/Rocketseat)
 
